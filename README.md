@@ -16,7 +16,7 @@ Además, descuenta las áreas de las ventanas de las fachadas correspondientes y
 ---
 
 ## Aplicaciones:
-Ideal para **ingenieros civiles**, **arquitectos** que sean **residentes de obra** o que colaboren con **interventoria** que necesiten estimar cantidades de materiales o áreas de pintura e impermeabilización. 
+Ideal para ***consultorias*** o trabajos en campo que necesiten estimar o verificar cantidades de obra. Facilita el proceso repetitivo en excel y aplica para la mayoria de obras civiles que se ejecutan en propiedad horizontal.  
 
 ---
 
