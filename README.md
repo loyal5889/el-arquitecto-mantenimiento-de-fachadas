@@ -29,6 +29,6 @@ Ideal para ***consultorias*** o trabajos en campo que necesiten estimar o verifi
 
 ---
 
-## 🧰 Autor:
+## Autor:
 **Juan Leal**  
 Ingeniero Civil 
