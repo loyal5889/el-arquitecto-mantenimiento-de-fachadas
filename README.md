@@ -1,4 +1,4 @@
-# EMPRESA: el-arquitecto-mantenimiento-de-fachadas
+
 # Calculadora de Cantidades - Mantenimiento de Fachadas
 
 Este programa en **Python** permite calcular de forma automática las **áreas de muros, fachadas y ventanas** en proyectos de mantenimiento en obras civiles.  
